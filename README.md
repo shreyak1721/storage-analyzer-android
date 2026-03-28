@@ -1,51 +1,64 @@
-# 📱 Storage Analyzer (AI-Based Data Loss Prevention)
+# 📱 Storage Analyzer
+### AI-Based Data Loss Prevention System for Android
 
-An Android application that helps users prevent data loss and optimize storage using intelligent insights.
+🚧 *Currently in Development (Phase 1 - March Goal)*
 
 ---
 
 ## 🚨 Problem
-- Users lose important data due to missed backups
-- Storage gets cluttered with unused large files
-- No smart way to monitor storage health
+- No smart way to monitor storage health  
+- Risk of data loss due to missed backups  
+- Storage clutter from large & duplicate files  
 
 ---
 
 ## 💡 Solution
-This app analyzes device storage and provides:
-- Storage insights
-- Large file detection
-- Smart recommendations (future scope: AI)
+A smart Android app that:
+- Scans device storage  
+- Identifies large files  
+- Provides intelligent insights  
+- Prevents potential data loss  
 
 ---
 
-## 🔧 Features (Phase 1 - March Goal)
-- Scan device storage
-- List images and videos
-- Show file sizes
-- Identify large files
+## 🔧 Features (Current)
+- 📂 Storage scanning using MediaStore  
+- 📊 File size analysis  
+- 📈 Basic storage insights  
 
 ---
 
-## 🚀 Future Scope
-- AI-based file ranking
-- Predictive backup alerts
-- Smart compression
-- Encrypted mini-backups
+## 🚀 Planned Features
+- 🤖 AI-based file importance ranking  
+- ⚠️ Backup risk detection  
+- 🗜️ Smart compression  
+- 🔐 Encrypted mini-backups  
 
 ---
 
 ## 🛠️ Tech Stack
-- Kotlin
-- Android SDK
-- MediaStore API
+- Kotlin  
+- Android SDK  
+- MediaStore API  
 
 ---
 
-## 📅 Status
-🚧 In Development (Phase 1)
+## 📅 Roadmap
+
+### March (Phase 1)
+- [ ] Setup Android project  
+- [ ] Fetch media files  
+- [ ] Show storage stats  
+
+### April (Phase 2)
+- [ ] File analysis logic  
+- [ ] Large file detection  
+
+### May (Phase 3)
+- [ ] AI-based suggestions  
+- [ ] Backup system  
 
 ---
 
 ## 👨‍💻 Author
-Shreya
+Shrey
