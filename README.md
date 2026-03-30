@@ -61,4 +61,4 @@ A smart Android app that:
 ---
 
 ## 👨‍💻 Author
-Shrey
+Shreya
